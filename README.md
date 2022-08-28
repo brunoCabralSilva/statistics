@@ -4,4 +4,4 @@
 
 <h3 align="center">https://brunocabralsilva.github.io/statistics/</h3>
 
-![Tela Inicial da Aplicação](src/images/wallpaper.png)
+![Tela Inicial da Aplicação](src/images/wallpaper.jpg)
