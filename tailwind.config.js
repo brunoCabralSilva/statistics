@@ -5,6 +5,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      transitionProperty: {
+        'width': 'width',
+        'display': 'display',
+        'spacing': 'margin, padding',
+        'opacity': 'opacity',
+      },
       spacing: {
         '5%': '5%',
         '10%': '12%',
