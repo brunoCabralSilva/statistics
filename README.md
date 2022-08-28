@@ -4,9 +4,4 @@
 
 <h3 align="center">https://brunocabralsilva.github.io/statistics/</h3>
 
-![Tela Inicial da Aplicação](src/imagens/cthulhu.png)
-
-
-<p align="center">
-<img src="src/images/wallpaper.png"/>
-</p>
+![Tela Inicial da Aplicação](src/images/wallpaper.png)
